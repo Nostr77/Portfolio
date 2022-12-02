@@ -11,5 +11,4 @@ My primary technical expertise in SQL, Python, and PowerBI is covered by those r
 
 
 
-Best regards,
-Mykola
+Best regards
