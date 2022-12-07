@@ -6,9 +6,7 @@ My primary technical expertise in SQL, Python, and PowerBI is covered by those r
 
 ## [1. PowerBI & Python. Automatic Analytical Dashboard based on PowerBI and Python. From API to Dashboard, combining archive data with recent one](https://github.com/Nostr77/AGSI)
 
-## [2. SQL & PowerBI. Automatic Analytical Dashboard based on PowerBI and Python. From API to Dashboard, combining archive data with recent one](https://github.com/Nostr77/AGSI_SQL)
-
-
+## [2. SQL & PowerBI. Automatic Analytical Dashboard based on Azure SQL Database & PowerBI. The ETL created in Power Query M mixes injected data with SQL permanent data. PowerBI visuals are built on SQL direct queries.  ](https://github.com/Nostr77/AGSI_SQL)
 
 
 Best regards
